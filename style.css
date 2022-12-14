@@ -34,3 +34,12 @@ img {
     margin:auto;
     width: 130px;
 }
+.YouTube{
+    width: 175px;
+}
+a {
+    transition: ease-in-out 300ms;
+}
+a:hover {
+    opacity: 65%;
+}
