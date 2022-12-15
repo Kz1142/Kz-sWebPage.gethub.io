@@ -28,7 +28,6 @@ body {
     flex-grow:1;
     margin:1rem;
   }
-
 img {
     display:block;
     margin:auto;
@@ -42,4 +41,7 @@ a {
 }
 a:hover {
     opacity: 65%;
+}
+.DiscordBanner{
+    box-shadow: 0px 1px 35px rebeccapurple;
 }
