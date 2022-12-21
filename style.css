@@ -1,6 +1,6 @@
 body {
     margin:0;
-    background-color:   #7FE6F2;
+    background-color:   #7fe7f2;
 }
 .banner {
    width: 95%;
@@ -36,12 +36,19 @@ img {
 .YouTube{
     width: 175px;
 }
+.DiscordBanner{
+    width: 75%;
+    height: auto;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+
+    box-shadow: 20px 20px 50px 15px #4050ff;
+}
 a {
     transition: ease-in-out 300ms;
 }
 a:hover {
     opacity: 65%;
-}
-.DiscordBanner{
-    box-shadow: 0px 1px 35px rebeccapurple;
+    ;
 }
